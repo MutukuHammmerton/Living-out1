@@ -1,0 +1,132 @@
+Looking for git in: git
+Using git 2.25.1 from git
+Opening repository for path='/opt/lampp/htdocs/LivingOut' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/.editorconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/.env' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/.env.example' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/.gitattributes' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/.styleci.yml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/README.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/app' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/artisan' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/bootstrap' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/composer.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/composer.lock' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/config' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/database' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/package.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/phpunit.xml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/public' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/resources' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/server.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/storage' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/tests' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/vendor' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut/webpack.mix.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/opt/lampp/htdocs/LivingOut/~' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/opt/lampp/htdocs/LivingOut' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/LivingOut
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.env
+> git ls-files --stage -- /opt/lampp/htdocs/LivingOut/.env
+> git check-ignore -v -z --stdin
