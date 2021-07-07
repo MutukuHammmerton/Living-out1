@@ -1486,9 +1486,9 @@
             "folder": "file:///opt/lampp/htdocs/LivingOut",
             "backupPath": "/opt/lampp/htdocs/LivingOut/~/.vscode-root/Backups/b5e98b0f4e1dacea6bf2d5a69e43c308",
             "uiState": {
-                "mode": 0,
-                "x": 448,
-                "y": 193,
+                "mode": 1,
+                "x": 729,
+                "y": 73,
                 "width": 1024,
                 "height": 768
             }
