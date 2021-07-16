@@ -5,7 +5,7 @@
         <div class="card login-card">
             <div class="row no-gutters">
                 <div class="col-md-5">
-                    <img src="/img/livingout12.jpg" alt="login" class="login-card-img">
+                    <img src="/img/login.jpg" alt="login" class="login-card-img">
                 </div>
                 <div class="col-md-7">
                     @if($errors->any())
@@ -26,7 +26,7 @@
                         <form method="POST" action="{{ route('login') }}">
                             @csrf
                             <div class="mb-2">
-                                <a href="{{url('oauth/google')}}" class="btn btn-block btn-lg login-btn no-hover"><img src="{{url('img/google.svg')}}" width="18" height="18" style="vertical-align: text-bottom;" class="mr-2"> Sign in with Google</a>
+                                <a href="{{url('auth/google/redirect')}}" class="btn btn-block btn-lg login-btn no-hover"><img src="{{url('img/google.svg')}}" width="18" height="18" style="vertical-align: text-bottom;" class="mr-2"> Sign in with Google</a>
                               </div>
                             <div class="form-group">
                                 <label for="email" class="sr-only">Email</label>
@@ -49,7 +49,7 @@
                             <input name="login" id="login" class="btn btn-block login-btn mb-4" type="submit" value="Login">
                         </form>
                         <a href="{{ url('forgot-password') }}" class="forgot-password-link">Forgot password?</a>
-                        <p class="text-center">Or sign in with </p>
+                   
                        
                         <p class="login-card-footer-text">Don't have an account? <a href="{{ route('register') }}" class="text-reset">Register here</a></p>
                         <nav class="login-card-footer-nav">

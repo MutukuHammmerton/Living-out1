@@ -16,6 +16,46 @@ body {
     }
 }
 
+.navbar-nav  {
+    flex-direction: row !important;
+}
+
+.head {
+    color: #0d2366;
+    font-size: 34px;
+}
+
+.navbar-search-block {
+    .form-control-navbar {
+      &:focus {
+        &,
+        + .input-group-append .btn-navbar {
+          color: $main-header-light-placeholder-color;
+        }
+      }
+    }
+  }
+
+
+// Navbar Search
+.navbar-search-block {
+  position: absolute;
+  padding: 0 $nav-link-padding-x;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+  display: none;
+  justify-content: center;
+  flex-direction: column;
+  background-color: initial;
+
+  &.navbar-search-open {
+    display: flex;
+  }
+
+
 .login-card {
     border: 0;
     border-radius: 27.5px;
@@ -102,4 +142,6 @@ body {
             color: #919aa3;
         }
     }
+}
+
 }

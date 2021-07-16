@@ -30,3 +30,5 @@
 [2021-07-08 12:32:59.457] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
 [2021-07-08 13:41:09.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview {"startup":false,"extensionId":{"value":"vscode.image-preview","_lower":"vscode.image-preview"},"activationEvent":"onCustomEditor:imagePreview.previewEditor"}
 [2021-07-08 13:41:09.371] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/67/usr/share/code/resources/app/extensions/image-preview/dist/extension
+[2021-07-08 18:07:36.505] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-08 18:07:37.530] [exthost] [info] exiting with code 0

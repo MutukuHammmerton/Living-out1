@@ -15,9 +15,17 @@ use Illuminate\Support\Facedes\Auth;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/home', function() {
- 
+    return view('home');
 })->middleware(['auth', 'verified']);
+Route::get('/home', function() {
+    return view('home');
+})->middleware(['auth', 'verified']);
+
+Route::get('/logout1', function () {
+    return view('home');
+});
+
+//       *******************LOGIN WITH GOOGLE************************
+Route::get('auth/google/redirect', 'App\Http\Controllers\SocialitesController@redirect');
+Route::get('auth/google/callback', 'App\Http\Controllers\SocialitesController@callback');
 

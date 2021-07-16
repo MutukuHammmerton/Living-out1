@@ -87,6 +87,10 @@
                         "label": "Save Workspace As..."
                     },
                     {
+                        "id": "workbench.action.duplicateWorkspaceInNewWindow",
+                        "label": "Duplicate Workspace"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -548,8 +552,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "checked": true
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -957,12 +960,8 @@
             "Help": {
                 "items": [
                     {
-                        "id": "workbench.action.showWelcomePage",
-                        "label": "&&Welcome"
-                    },
-                    {
                         "id": "workbench.action.openWalkthrough",
-                        "label": "Getting Started"
+                        "label": "Welcome"
                     },
                     {
                         "id": "workbench.action.showInteractivePlayground",
@@ -1487,10 +1486,10 @@
             "backupPath": "/opt/lampp/htdocs/LivingOut/~/.vscode-root/Backups/b5e98b0f4e1dacea6bf2d5a69e43c308",
             "uiState": {
                 "mode": 0,
-                "x": 798,
-                "y": 381,
-                "width": 1024,
-                "height": 768
+                "x": 0,
+                "y": 64,
+                "width": 1848,
+                "height": 1016
             }
         },
         "openedWindows": []
